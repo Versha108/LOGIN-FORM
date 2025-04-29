@@ -9,7 +9,7 @@
     overflow: hidden;
     align-items: center;
     justify-content: center;
-    background-color: #061f26;
+    background-color:rgb(133, 66, 222);
   }
   
   .inFormBackground {
@@ -105,7 +105,7 @@
     border-radius: 5px;
     position: absolute;
     transition: left 0.4s, color 0.4s;
-    background-color: #202020;
+    background-color: rgb(116, 31, 226);
   }
   
   .submitForm:hover {
@@ -136,7 +136,7 @@
   }
   
   .social div:hover {
-    background-color: rgba(255, 255, 255, 0.47);
+    background-color: rgb(116, 31, 226);
   }
   
   .social .fb {
